@@ -1,0 +1,10 @@
+Security Controls Checklist:
+
+[ ] MFA enabled for all Office 365 users  
+[ ] IAM policies audited for least privilege  
+[ ] Public S3 access restricted  
+[ ] Antivirus/EDR installed on all endpoints  
+[ ] CloudTrail enabled in AWS  
+[ ] DLP rules configured in Office 365  
+[ ] Security logs centralized (SIEM/Splunk)  
+[ ] Regular user access reviews scheduled  
